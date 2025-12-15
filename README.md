@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gursimar Kaur</h1>
+<h1 align="center">Hi 👋, I'm Simi</h1>
 <h3 align="center">I don’t code to tick boxes. I build because I’m curious, uncomfortable with surface-level answers, and obsessed with understanding how things actually work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bysimi&label=Profile%20views&color=0e75b6&style=flat" alt="bysimi" /> </p>
