@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [NeuroSketch](https://github.com/niveaaa/NeuroSketch)
 
-- 👨‍💻 All of my projects are available at [https://github.com/BySimi](https://github.com/BySimi)
+- 👨‍💻 All of my projects are available at [BySimi](https://github.com/BySimi)
 
 - 💬 Ask me about **AI for healthcare & accessibility, Python for applied AI, Computer Vision projects**
 
