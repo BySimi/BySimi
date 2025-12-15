@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysimi" alt="bysimi" /></a> </p>
 
-- 🔭 I’m currently working on **Ghost layer**
+- 🔭 I’m currently working on [Ghost layer](https://github.com/BySimi/Ghost-Layer)
 
 - 🌱 I’m currently learning **Machine Learning, TensorFlow & Model Building, Computer Vision, Data Analysis & EDA**
 
-- 🤝 I’m looking for help with **NeuroSketch**
+- 🤝 I’m looking for help with [NeuroSketch](https://github.com/niveaaa/NeuroSketch)
 
 - 👨‍💻 All of my projects are available at [https://github.com/BySimi](https://github.com/BySimi)
 
