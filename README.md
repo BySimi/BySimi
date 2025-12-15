@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **AI for healthcare & accessibility, Python for applied AI, Computer Vision projects**
 
-- 📫 How to reach me **gursimar.kaur.khalsa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
