@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/gursimar-kaur-khalsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gursimar-kaur-khalsa" height="30" width="40" /></a>
 <a href="https://kaggle.com/gursimarkaurkhalsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gursimarkaurkhalsa" height="30" width="40" /></a>
-<a href="https://instagram.com/gursimar_khalsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gursimar_khalsa" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/simi_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="simi_007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@gursimar_kaur_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gursimar_kaur_k1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zghp4n9eol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zghp4n9eol" height="30" width="40" /></a>
